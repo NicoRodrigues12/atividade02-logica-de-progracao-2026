@@ -9,8 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "- Curso - Desenvolvimento de Sistemas\r - Unidade Curricular - Lógica de Programação\r - Docente - Gustavo Roberto de Souza",
   "dependencies": {
     "readline-sync": "^1.4.10"
-  }
+  },
+  "devDependencies": {}
 }
