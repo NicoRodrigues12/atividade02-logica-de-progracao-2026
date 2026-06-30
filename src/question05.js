@@ -11,7 +11,7 @@ import leia from 'readline-sync'
 
 var tempAtual = leia.questionFloat("Qual a temperatura atual : ")
 var opcao = leia.keyInSelect(["C -> F", "C -> K", "F -> C", "K -> C", "K -> F"],
-    "Informe a Conversão!"
+    "Informe a Conversao!"
 )
 
 switch(opcao){
