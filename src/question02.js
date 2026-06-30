@@ -1,5 +1,6 @@
 import leia from 'readline-sync'
 
+console.log("Sua maior/menor nota deve ser a primeira!")
 var nota1 = leia.questionFloat("Informe sua primeira nota : ")
 var nota2 = leia.questionFloat("Informe sua segunda nota : ")
 var nota3 = leia.questionFloat("Informe sua terceira nota : ")
